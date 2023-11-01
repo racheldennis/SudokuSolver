@@ -61,18 +61,15 @@ Understanding this backtracking algorithm can help you appreciate how the solver
 
 This is the initial Sudoku board that is assigned in the code:
 
-<img src="https://github.com/racheldennis/SudokuSolver/assets/76753168/46e33e44-067d-47a8-b0c1-5ae4aec92feb" width="450" height="450">
-
-<br><br>
+<img src="https://github.com/racheldennis/SudokuSolver/assets/76753168/46e33e44-067d-47a8-b0c1-5ae4aec92feb" width="450" height="450"><br>
 
 
 ### After Successful Puzzle Completion
 
 After successfully solving the puzzle, the cells that were solved turn green.
 
-<img src="https://github.com/racheldennis/SudokuSolver/assets/76753168/6847c0be-c2f9-402d-8f61-95fe8fac374e" width="450" height="450">
+<img src="https://github.com/racheldennis/SudokuSolver/assets/76753168/6847c0be-c2f9-402d-8f61-95fe8fac374e" width="450" height="450"><br>
 
-<br><br>
 
 
 Then, the entire grid turns grey to indicate completion.
