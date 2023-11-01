@@ -72,7 +72,7 @@ After successfully solving the puzzle, the cells that were solved turn green.
 
 <img src="https://github.com/racheldennis/SudokuSolver/assets/76753168/6847c0be-c2f9-402d-8f61-95fe8fac374e" width="450" height="450">
 
-<br>
+<br><br>
 
 
 Then, the entire grid turns grey to indicate completion.
